@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahgahhoo.ishb2goneyet.com/sitemap.xml
